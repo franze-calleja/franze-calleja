@@ -54,7 +54,7 @@ TypeScript-first engineer specializing in **vertical slice architecture** and sc
 ### 🎯 What I Do
 
 ```typescript
-const franzCalleja = {
+const franzeCalleja = {
   role: "Full-Stack Engineer & Team Lead",
   company: "Ellipsense (Founder)",
   specialties: [
