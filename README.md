@@ -1,27 +1,168 @@
-<h1 align="center">Hi 👋, I'm Franze William M. Calleja</h1>
-<h3 align="center">Founder at Ellipsense | Software Engineer & Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franze-calleja&label=Profile%20views&color=0e75b6&style=flat" alt="franze-calleja" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franze-calleja" alt="franze-calleja" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [franze-portfolio.vercel.app](franze-portfolio.vercel.app)
-
-- 📫 How to reach me **franzewilliamcalleja@gmail.com**
-
-- 📄 Know about my experiences [franze-portfolio.vercel.app](franze-portfolio.vercel.app)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/calleja-franze-william-m-b93736258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/calleja-franze-william-m-b93736258" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/franze.calleja.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/franze.calleja.1/" height="30" width="40" /></a>
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/6c/02/cf/6c02cf6c050def4cb1883760d78f63f0.jpg" alt="Landscape animation" width="1000" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Franze%20Calleja&fontAlign=50&fontAlignY=40&color=0:8B4513,100:A0522D&fontColor=ffffff" alt="Franze Calleja banner" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franze-calleja&show_icons=true&locale=en&layout=compact" alt="franze-calleja" /></p>
+<h3 align="center">Software Engineer • AI Enthusiast • Full-stack Developer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franze-calleja&show_icons=true&locale=en" alt="franze-calleja" /></p>
+<p align="center">
+  <strong>Founder @ Ellipsense</strong> | Building scalable systems & AI-powered solutions
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franze-calleja&" alt="franze-calleja" /></p>
+<p align="center">
+  <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></a>
+  <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"></a>
+  <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"></a>
+  <a href="https://ui.shadcn.com/"><img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-111111"></a>
+  <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></a>
+  <a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"></a>
+  <a href="https://www.prisma.io/"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
+  <a href="https://github.com/pmndrs/zustand"><img alt="Zustand" src="https://img.shields.io/badge/Zustand-463A3A"></a>
+  <a href="https://tanstack.com/query/latest"><img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white"></a>
+  <a href="https://axios-http.com/"><img alt="axios" src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=white"></a>
+  <a href="https://n8n.io/"><img alt="n8n" src="https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white"></a>
+  <a href="https://ollama.ai/"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"></a>
+  <a href="https://www.hostinger.com/"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white"></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+TypeScript-first engineer specializing in **vertical slice architecture** and scalable full-stack systems. I build business-impacting solutions that prioritize clean boundaries, type safety, and operational excellence.
+
+**Currently:** Leading engineering at **Ellipsense**, a freelance development collective delivering enterprise-grade systems and AI-powered automation solutions. Our team transforms business challenges into elegant, production-ready software.
+
+**Focus Areas:** Full-stack development with modern frameworks, LLM-based automation, and expanding expertise in AI engineering and DevOps practices.
+
+### 🎯 What I Do
+
+```typescript
+const franzCalleja = {
+  role: "Full-Stack Engineer & Team Lead",
+  company: "Ellipsense (Founder)",
+  specialties: [
+    "Vertical Slice Architecture",
+    "Type-Safe Full-Stack Development", 
+    "AI/LLM Integration & Automation",
+    "Team Leadership & Technical Direction"
+  ],
+  impact: [
+    "Built production systems serving real businesses",
+    "Led cross-functional freelance teams",
+    "Architected scalable, maintainable solutions",
+    "Delivered LLM-powered automation workflows"
+  ]
+}
+```
+
+---
+
+## 🛠️ Technical Arsenal
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### Frontend Excellence
+**Framework & UI**
+- Next.js (App Router, RSC, Server Actions)
+- React with TypeScript
+- Tailwind CSS + shadcn/ui
+
+**State & Data**
+- Zustand for state management
+- TanStack Query for server state
+- Axios for API communication
+
+**Developer Experience**
+- Feature-sliced architecture
+- Type-safe contracts (Zod)
+- Optimistic UI patterns
+
+</td>
+<td valign="top" width="50%">
+
+### Backend Mastery
+**Runtime & Framework**
+- Node.js + Express.js
+- Prisma ORM (preferred DAL)
+- RESTful API design
+
+**Databases**
+- MySQL (primary)
+- PostgreSQL (proficient)
+
+**Architecture**
+- Vertical slice structure
+- Clean domain boundaries
+- Operational resilience patterns
+- MVC
+
+</td>
+  </tr>
+</table>
+
+### ⚡ DevOps & Automation
+**Infrastructure:** Docker, GitHub Actions, Vercel, Azure, Hostinger  
+**Automation:** n8n workflows, LLM integrations (Ollama), intelligent automation pipelines  
+
+
+---
+
+## 🏗️ Engineering Philosophy
+
+### Architectural Principles
+**Vertical Slice Architecture** — Features are organized by business capability, not technical layer. Each slice contains its UI, application logic, domain logic, and data access in one cohesive unit.
+
+**Typed Boundaries** — Zod schemas at API edges, shared types across the stack, OpenAPI contracts for external consumers.
+
+---
+
+## 🚀 Featured Work
+
+### Production Systems
+**Enterprise Solutions @ Ellipsense**  
+Led development of multiple production systems for businesses, handling real user traffic and delivering measurable impact. Architected with vertical slices, type safety, and operational resilience.
+
+**Tech:** Next.js, Express, Prisma, MySQL, TanStack Query, shadcn/ui
+
+---
+
+### AI & Automation
+**LLM-Powered Workflows**  
+Built intelligent automation pipelines using n8n and Ollama, integrating LLMs into business processes for document processing, content generation, and intelligent routing.
+
+**Tech:** n8n, Ollama, Python, Node.js
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=franze-calleja&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franze-calleja&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franze-calleja&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+🤝 Let's Connect
+Looking for: Engineering collaboration, technical discussions, or project opportunities in full-stack development, AI integration, or DevOps.
+Best way to reach me: franzewilliamcalleja@gmail.com || 09628580637
+
+<p align="center">
+  <i>"Building systems that scale, teams that deliver, and solutions that matter."</i>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=franze-calleja&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
