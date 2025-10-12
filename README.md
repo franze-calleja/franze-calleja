@@ -13,7 +13,6 @@
 <p align="center">
   <strong>Founder @ Ellipsense</strong> | Building scalable systems & AI-powered solutions
 </p>
-
 <p align="center">
   <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></a>
   <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"></a>
@@ -32,6 +31,7 @@
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
   <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></a>
   <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"></a>
+  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
@@ -39,6 +39,7 @@
   <a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"></a>
   <a href="https://www.hostinger.com/"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white"></a>
 </p>
+
 
 
 ---
