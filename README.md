@@ -164,7 +164,14 @@ Built intelligent automation pipelines using n8n and Ollama, integrating LLMs in
 
 🤝 Let's Connect
 Looking for: Engineering collaboration, technical discussions, or project opportunities in full-stack development, AI integration, or DevOps.
-Best way to reach me: franzewilliamcalleja@gmail.com || 09628580637
+
+## 📫 Contact Me
+- **Email:** [franzewilliamcalleja@gmail.com](mailto:franzewilliamcalleja@gmail.com)
+- **Phone:** 09628580637  
+- **LinkedIn:** [linkedin.com/in/franze-calleja](https://www.linkedin.com/in/franze-calleja)
+- **Portfolio:** [franze-portfolio.vercel.app](https://franze-portfolio.vercel.app)
+- **GitHub:** [github.com/franze-calleja](https://github.com/franze-calleja)
+
 
 <p align="center">
   <i>"Building systems that scale, teams that deliver, and solutions that matter."</i>
