@@ -11,7 +11,7 @@
 <h3 align="center">Software Engineer • AI Enthusiast • Full-stack Developer</h3>
 
 <p align="center">
-  <strong>Founder @ Ellipsense</strong> | Building scalable systems & AI-powered solutions
+  <strong>Founder @Ellipsense</strong> | Building scalable systems & AI-powered solutions
 </p>
 <p align="center">
   <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></a>
