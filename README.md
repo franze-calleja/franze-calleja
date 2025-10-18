@@ -1,4 +1,4 @@
-<!-- Hero GIF -->
+
 <p align="center">
   <img src="https://i.pinimg.com/736x/6c/02/cf/6c02cf6c050def4cb1883760d78f63f0.jpg" alt="Landscape animation" width="1000" />
 </p>
