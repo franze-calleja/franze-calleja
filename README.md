@@ -2,7 +2,6 @@
   <img src="https://i.pinimg.com/736x/6c/02/cf/6c02cf6c050def4cb1883760d78f63f0.jpg" alt="Landscape animation" width="1000" />
 </p>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Franze%20Calleja&fontAlign=50&fontAlignY=40&color=0:8B4513,100:A0522D&fontColor=ffffff" alt="Franze Calleja banner" />
 </p>
