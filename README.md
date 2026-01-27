@@ -44,7 +44,8 @@
 
 ## 👨‍💻 About Me
 
-TypeScript-first engineer specializing in **vertical slice and CSR architecture** and scalable full-stack systems. I build business-impacting solutions that prioritize clean boundaries, type safety, and operational excellence.
+TypeScript-first engineer specializing in **Vertical Slice and Client-Side Rendering (CSR) architectures** for scalable, maintainable full-stack systems.
+ I build business-impacting solutions that prioritize clean boundaries, type safety, and operational excellence.
 
 **Currently:** Leading engineering at **Ellipsense**, a freelance development collective delivering enterprise-grade systems and AI-powered automation solutions. Our team transforms business challenges into elegant, production-ready software.
 
@@ -129,6 +130,8 @@ const franzeCalleja = {
 
 ### Architectural Principles
 **Vertical Slice Architecture** — Features are organized by business capability, not technical layer. Each slice contains its UI, application logic, domain logic, and data access in one cohesive unit.
+
+**Client-Side Rendering (CSR) Architecture** — Frontend applications emphasize rich client-side interactivity, predictable state management, and optimized API-driven data flows. CSR is leveraged where responsiveness, complex UI state, and real-time user feedback are critical, while backend services remain clean, stateless, and contract-driven.
 
 **Typed Boundaries** — Zod schemas at API edges, shared types across the stack, OpenAPI contracts for external consumers.
 
