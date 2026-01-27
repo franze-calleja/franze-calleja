@@ -44,7 +44,7 @@
 
 ## 👨‍💻 About Me
 
-TypeScript-first engineer specializing in **vertical slice architecture** and scalable full-stack systems. I build business-impacting solutions that prioritize clean boundaries, type safety, and operational excellence.
+TypeScript-first engineer specializing in **vertical slice and CSR architecture** and scalable full-stack systems. I build business-impacting solutions that prioritize clean boundaries, type safety, and operational excellence.
 
 **Currently:** Leading engineering at **Ellipsense**, a freelance development collective delivering enterprise-grade systems and AI-powered automation solutions. Our team transforms business challenges into elegant, production-ready software.
 
