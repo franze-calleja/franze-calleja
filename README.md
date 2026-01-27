@@ -134,6 +134,20 @@ const franzeCalleja = {
 
 ---
 
+## 💼 Professional Experience
+
+### Full-Stack Software Engineer — MSEUF-CI  
+*Office of Information and Communication Technology (OICT)*
+
+- Developed and maintained internal systems supporting university operations (HR, submissions, admin tooling)
+- Implemented end-to-end features using TypeScript, React/Next.js, Node.js, Prisma, and MySQL
+- Designed and shipped production-ready modules following vertical slice principles and clean domain boundaries
+- Identified and mitigated security issues in live infrastructure, improving system reliability and integrity
+- Collaborated with IT staff and non-technical stakeholders to translate operational requirements into scalable software
+
+
+---
+
 ## 🚀 Featured Work
 
 ### Production Systems
