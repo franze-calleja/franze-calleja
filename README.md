@@ -1,197 +1,212 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6c/02/cf/6c02cf6c050def4cb1883760d78f63f0.jpg" alt="Landscape animation" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Franze%20William%20Calleja&fontAlign=50&fontAlignY=42&fontSize=36&color=0:0f0f0f,50:1a1a2e,100:16213e&fontColor=e2e8f0&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Candelaria%2C%20Quezon%2C%20PH&descAlign=50&descAlignY=62&descSize=14" />
 </p>
-
-
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Franze%20Calleja&fontAlign=50&fontAlignY=40&color=0:8B4513,100:A0522D&fontColor=ffffff" alt="Franze Calleja banner" />
+  <a href="https://franzecalleja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-franzecalleja.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:franzewilliamcalleja@gmail.com"><img src="https://img.shields.io/badge/Email-franzewilliamcalleja@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/franze-calleja"><img src="https://img.shields.io/badge/LinkedIn-franze--calleja-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-<h3 align="center">Software Engineer • AI Enthusiast • Full-stack Developer</h3>
 
 <p align="center">
-  <strong>Founder @Ellipsense</strong> | Building scalable systems & AI-powered solutions
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0f172a" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-3b82f6?style=flat-square&labelColor=0f172a" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Remote-Worldwide-a855f7?style=flat-square&labelColor=0f172a" />
 </p>
-<p align="center">
-  <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></a>
-  <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"></a>
-  <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"></a>
-  <a href="https://ui.shadcn.com/"><img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-111111"></a>
-  <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></a>
-  <a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"></a>
-  <a href="https://www.prisma.io/"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
-  <a href="https://github.com/pmndrs/zustand"><img alt="Zustand" src="https://img.shields.io/badge/Zustand-463A3A"></a>
-  <a href="https://tanstack.com/query/latest"><img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white"></a>
-  <a href="https://axios-http.com/"><img alt="axios" src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=white"></a>
-  <a href="https://n8n.io/"><img alt="n8n" src="https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white"></a>
-  <a href="https://ollama.ai/"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white"></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
-  <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></a>
-  <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"></a>
-  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
-  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
-  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
-  <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"></a>
-  <a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"></a>
-  <a href="https://www.hostinger.com/"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white"></a>
-</p>
-
-
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-TypeScript-first engineer specializing in **Vertical Slice and Client-Side Rendering (CSR) architectures** for scalable, maintainable full-stack systems.
- I build business-impacting solutions that prioritize clean boundaries, type safety, and operational excellence.
+```ts
+const franze = {
+  name:     "Franze William Calleja",
+  location: "Candelaria, Quezon, Philippines",
+  focus:    "Full-stack • AI-Agentic Systems • Production Infrastructure",
 
-**Currently:** Leading engineering at **Ellipsense**, a freelance development collective delivering enterprise-grade systems and AI-powered automation solutions. Our team transforms business challenges into elegant, production-ready software.
-
-**Focus Areas:** Full-stack development with modern frameworks, LLM-based automation, and expanding expertise in AI engineering and DevOps practices.
-
-### 🎯 What I Do
-
-```typescript
-const franzeCalleja = {
-  role: "Full-Stack Engineer & Team Lead",
-  company: "Ellipsense (Founder)",
-  specialties: [
-    "Vertical Slice Architecture",
-    "Type-Safe Full-Stack Development", 
-    "AI/LLM Integration & Automation",
-    "Team Leadership & Technical Direction"
+  currently: [
+    "Lead Fullstack Engineer  →  MSEUF-CI (University)",
+    "Lead Software Engineer   →  R-A-Ones Corporation (Canada, Part-time)",
+    "Founder & Lead Dev       →  Ellipsense (Freelance Collective)",
   ],
-  impact: [
-    "Built production systems serving real businesses",
-    "Led cross-functional freelance teams",
-    "Architected scalable, maintainable solutions",
-    "Delivered LLM-powered automation workflows"
-  ]
-}
+
+  building:  ["enterprise web systems", "agentic workflows", "scalable APIs"],
+  exploring: ["model orchestration", "cloud infrastructure", "AI in production"],
+
+  education: {
+    degree:      "BS Computer Science",
+    school:      "Manuel S. Enverga University Foundation – Candelaria Inc.",
+    graduated:   "2025",
+    distinction: "Class Salutatorian · Magna Cum Laude",
+  },
+} satisfies Engineer;
 ```
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🧰 Tech Stack
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="33%">
 
-### Frontend Excellence
-**Framework & UI**
-- Next.js (App Router, RSC, Server Actions)
-- React with TypeScript
-- Tailwind CSS + shadcn/ui
-
-**State & Data**
-- Zustand for state management
-- TanStack Query for server state
-- Axios for API communication
-
-**Developer Experience**
-- Feature-sliced architecture
-- Type-safe contracts (Zod)
-- Optimistic UI patterns
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-463A3A?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-### Backend Mastery
-**Runtime & Framework**
-- Node.js + Express.js
-- Prisma ORM (preferred DAL)
-- RESTful API design
-
-**Databases**
-- MySQL (primary)
-- PostgreSQL (proficient)
-
-**Architecture**
-- Vertical slice structure
-- Clean domain boundaries
-- Operational resilience patterns
-- MVC
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=orange)
 
 </td>
-  </tr>
+<td valign="top" width="33%">
+
+### AI & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=flat-square&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+</td>
+</tr>
 </table>
 
-### ⚡ DevOps & Automation
-**Infrastructure:** Docker, GitHub Actions, Vercel, Azure, Hostinger  
-**Automation:** n8n workflows, LLM integrations (Ollama), intelligent automation pipelines  
+---
 
+## 📊 Skill Levels
+
+```
+Frontend        ████████████████████░   92%
+Backend         ████████████████████░   90%
+AI & Agentic    ████████████████████░   90%
+Infrastructure  ████████████████░░░░░   80%
+```
+
+<details>
+<summary><strong>↳ Detailed breakdown</strong></summary>
+
+<br/>
+
+**Frontend**
+```
+Component-driven UI / Design Systems    ████████████████████░   95%
+Responsive layouts & Accessibility      ████████████████████░   90%
+State Management (TanStack, Redux, Zustand)  ████████████████░░░░   88%
+Mobile (React Native, Expo)             ████████████████░░░░░   85%
+Testing (Jest, RTL)                     ████████████████░░░░░   80%
+```
+
+**Backend**
+```
+REST API Design                         ████████████████████░   95%
+Modular / MVC / Horizontal Architectures ████████████████████░   90%
+Database Design, Migrations & ORMs      ████████████████░░░░░   85%
+Auth, Authorization & Sessions          ████████████████░░░░░   85%
+Background Jobs, Queues & Scheduling    ███████████████░░░░░░   75%
+```
+
+**AI & Infrastructure**
+```
+Agentic Development                     ████████████████████░   90%
+Model Orchestration                     ████████████████░░░░░   85%
+Containerization (Docker)               ████████████████░░░░░   80%
+CI/CD                                   ████████████████░░░░░   80%
+Cloud Infrastructure (AWS/GCP)          ███████████████░░░░░░   76%
+```
+
+</details>
 
 ---
 
-## 🏗️ Engineering Philosophy
+## 🏗️ Selected Projects
 
-### Architectural Principles
-**Vertical Slice Architecture** — Features are organized by business capability, not technical layer. Each slice contains its UI, application logic, domain logic, and data access in one cohesive unit.
-
-**Client-Side Rendering (CSR) Architecture** — Frontend applications emphasize rich client-side interactivity, predictable state management, and optimized API-driven data flows. CSR is leveraged where responsiveness, complex UI state, and real-time user feedback are critical, while backend services remain clean, stateless, and contract-driven.
-
-**Typed Boundaries** — Zod schemas at API edges, shared types across the stack, OpenAPI contracts for external consumers.
-
----
-
-## 💼 Professional Experience
-
-### Full-Stack Software Engineer — MSEUF-CI  
-*Office of Information and Communication Technology (OICT)*
-
-- Developed and maintained internal systems supporting university operations (HR, submissions, admin tooling)
-- Implemented end-to-end features using TypeScript, React/Next.js, Node.js, Prisma, and MySQL
-- Designed and shipped production-ready modules following vertical slice principles and clean domain boundaries
-- Identified and mitigated security issues in live infrastructure, improving system reliability and integrity
-- Collaborated with IT staff and non-technical stakeholders to translate operational requirements into scalable software
-
+| Project | Description | Stack |
+|---|---|---|
+| [**HR Information Management System**](https://hrims.mseufcandelaria.com) | Enterprise HR platform for employee records, workflows & admin data | Next.js · Express · Prisma · MySQL |
+| [**Unified Plant, Facilities & Property System**](https://upfps.mseufcandelaria.com) | Operations system for coordinating plant assets & property records | Next.js · Express · Prisma · MySQL |
+| [**UTOL Web Dashboard**](https://play.google.com/store/apps/details?id=ph.utol.utolapp) | Admin dashboard for a ride-hailing app — operational control & monitoring | Next.js · SSO · ZOHO OAuth |
+| [**Submission Tracker**](https://submissiontracker.mseufcandelaria.com) | Full-stack submission tracking with database-backed record management | Next.js · Prisma · MySQL |
+| [**NQ Trend Trading & LMS**](https://nqtrendtrading.com) | Trading site & learning platform for content delivery & user management | Next.js · ASP .NET |
+| [**EUC CITHM NFC Attendance**](https://euccithmattendance.com) | Attendance system using NFC-enabled flows for reliable check-ins | Vue.js · Laravel |
+| [**Investo**](https://github.com/franze-calleja/investo) | Mobile investment tracker with streamlined account interactions | React Native · Expo · Zustand |
+| [**MinIO Self-hosted Storage**](https://github.com/franze-calleja/minio-cdn) | Self-hosted object storage for private infrastructure deployments | Docker · Shell |
+| **PHD Airbnb Parking** | Mobile parking workflow — locate, reserve & track parking availability | React Native · Expo · Express · PostgreSQL |
 
 ---
 
-## 🚀 Featured Work
+## 💼 Experience
 
-### Production Systems
-**Enterprise Solutions @ Ellipsense**  
-Led development of multiple production systems for businesses, handling real user traffic and delivering measurable impact. Architected with vertical slices, type safety, and operational resilience.
-
-**Tech:** Next.js, Express, Prisma, MySQL, TanStack Query, shadcn/ui
+```
+Lead Fullstack Software Engineer   →   MSEUF-CI                       [ Current ]
+Lead Software Engineer             →   R-A-Ones Corporation (Canada)  [ Current · Part-time ]
+Founder & Lead Developer           →   Ellipsense (Freelance Group)   [ Current ]
+Web Developer                      →   Techbears Solutions
+Frontend Developer Intern          →   Linoflap Technology
+Student Developer                  →   Freelance
+```
 
 ---
 
-### AI & Automation
-**LLM-Powered Workflows**  
-Built intelligent automation pipelines using n8n and Ollama, integrating LLMs into business processes for document processing, content generation, and intelligent routing.
+## 🎓 Education
 
-**Tech:** n8n, Ollama, Python, Node.js
+**Bachelor of Science in Computer Science**
+Manuel S. Enverga University Foundation – Candelaria Inc. · `2021 – 2025`
+
+> 🏅 Class Salutatorian &nbsp;·&nbsp; Magna Cum Laude
+
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franze-calleja&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franze-calleja&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=franze-calleja&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=e2e8f0&icon_color=3b82f6&text_color=94a3b8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franze-calleja&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=e2e8f0&text_color=94a3b8" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franze-calleja&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franze-calleja&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1e293b&ring=3b82f6&fire=f59e0b&currStreakLabel=e2e8f0" />
 </p>
 
-🤝 Let's Connect
-Looking for: Engineering collaboration, technical discussions, or project opportunities in full-stack development, AI integration, or DevOps.
+---
 
-## 📫 Contact Me
-- **Email:** [franzewilliamcalleja@gmail.com](mailto:franzewilliamcalleja@gmail.com)
-- **Phone:** 09628580637  
-- **LinkedIn:** [linkedin.com/in/franze-calleja](https://www.linkedin.com/in/franze-calleja)
-- **Portfolio:** [franze-portfolio.vercel.app](https://franze-portfolio.vercel.app)
-- **GitHub:** [github.com/franze-calleja](https://github.com/franze-calleja)
+## 📫 Let's Build Something
 
+I'm **open to work** — full-time roles and freelance projects, remote-first, working with teams worldwide.
 
 <p align="center">
-  <i>"Building systems that scale, teams that deliver, and solutions that matter."</i>
+  <a href="mailto:franzewilliamcalleja@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-franzewilliamcalleja@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://franzecalleja.vercel.app"><img src="https://img.shields.io/badge/View%20Portfolio-franzecalleja.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/franze-calleja"><img src="https://img.shields.io/badge/Connect-LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=franze-calleja&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:16213e,50:1a1a2e,100:0f0f0f" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=franze-calleja&color=3b82f6&style=flat-square&label=Profile+Views" />
 </p>
