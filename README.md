@@ -1,44 +1,33 @@
- <div align="center">
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Franze%20William%20Calleja&fontAlign=50&fontAlignY=38&fontSize=40&color=0:0e100f,40:181e1b,80:11221b,100:0e100f&fontColor=f3efdd&stroke=22c55e&strokeWidth=1"
+  width="100%" />
+    </p>
     
-      <!-- Top Hero Banner with Wavy Fluid Gradient -->
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Franze%20William%20Calleja&fontAlign=50&fontAlignY=38&fontSize=40&color=0:0e100f,40:181e1b,80:11221b,
-  100:0e100f&fontColor=f3efdd&stroke=22c55e&strokeWidth=1" width="100%" />
+    <p align="center">
+    <a href="https://franzecalleja.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=40&lines=Full-Stack+Software+
+  Engineer+%26+Systems+Architect;Lead+Engineer+%40+MSEUF-CI+(Institutional+Platforms);Mobile+%26+Geospatial+Lead+%40+R-A-Ones+Canada;DevOps+%26+Observability+(Docker+%2B+Grafana+%2B+Loki);Class+Salutatorian+%E2%80%A2+Magna+Cum+Laude+
+  (BSCS)" alt="Typing SVG" /></a>
+    </p>
     
-      <!-- Animated Real-Time Typing Roles -->
-      <a href="https://franzecalleja.vercel.app">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=40&lines=Full-Stack+Software+Engineer+%26+Systems+Architect;Lead+
-  Engineer+%40+MSEUF-CI+(Institutional+Platforms);Mobile+%26+Geospatial+Lead+%40+R-A-Ones+Canada;DevOps+%26+Observability+(Docker+%2B+Grafana+%2B+Loki);Class+Salutatorian+%E2%80%A2+Magna+Cum+Laude+(BSCS)" alt="Typing SVG" />
-      </a>
+    <p align="center">
+    <a href="https://franzecalleja.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-franzecalleja.vercel.app-0E100F?style=for-the-badge&logo=vercel&logoColor=22c55e&labelColor=1a1d1b" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/franze-calleja"><img src="https://img.shields.io/badge/LINKEDIN-franze--calleja-0E100F?style=for-the-badge&logo=linkedin&logoColor=22c55e&labelColor=1a1d1b" /></a>
+    &nbsp;
+    <a href="mailto:franzewilliamcalleja@gmail.com"><img src="https://img.shields.io/badge/EMAIL-franzewilliamcalleja@gmail.com-0E100F?style=for-the-badge&logo=gmail&logoColor=22c55e&labelColor=1a1d1b" /></a>
+    </p>
     
-      <br/>
-    
-      <!-- Interactive Quick Links -->
-      <a href="https://franzecalleja.vercel.app">
-        <img src="https://img.shields.io/badge/PORTFOLIO-franzecalleja.vercel.app-0E100F?style=for-the-badge&logo=vercel&logoColor=22c55e&labelColor=1a1d1b" />
-      </a>
-      &nbsp;
-      <a href="https://linkedin.com/in/franze-calleja">
-        <img src="https://img.shields.io/badge/LINKEDIN-franze--calleja-0E100F?style=for-the-badge&logo=linkedin&logoColor=22c55e&labelColor=1a1d1b" />
-      </a>
-      &nbsp;
-      <a href="mailto:franzewilliamcalleja@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-franzewilliamcalleja@gmail.com-0E100F?style=for-the-badge&logo=gmail&logoColor=22c55e&labelColor=1a1d1b" />
-      </a>
-    
-      <br/><br/>
-    
-      <!-- Live Status Indicators -->
-      <img src="https://img.shields.io/badge/SYSTEM-ONLINE-22c55e?style=flat-square&labelColor=0E100F&logo=statuspage&logoColor=22c55e" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20FOR%20HIRE-22c55e?style=flat-square&labelColor=0E100F" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/LOCATION-PHILIPPINES%20(REMOTE%20WORLDWIDE)-f3efdd?style=flat-square&labelColor=0E100F&color=27272a" />
-    
-    </div>
+    <p align="center">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-22c55e?style=flat-square&labelColor=0E100F&logo=statuspage&logoColor=22c55e" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20FOR%20HIRE-22c55e?style=flat-square&labelColor=0E100F" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/LOCATION-PHILIPPINES%20(REMOTE%20WORLDWIDE)-f3efdd?style=flat-square&labelColor=0E100F&color=27272a" />
+    </p>
     
     ---
     
-    ### 🖥️ `sys.telemetry // developer_kernel`
+    ## 🖥️ `sys.telemetry // developer_kernel`
     
     ```ts
     // 🔴 🟡 🟢 user@franze-core:~$ neofetch --engineer
@@ -64,7 +53,7 @@
       },
     };
   ──────
-  ### 🧰 Technical Arsenal & Skill Matrix
+  ## 🧰 Technical Arsenal & Skill Matrix
   🌐 Frontend
   • 🖼 Image: TypeScript → https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
   • 🖼 Image: Next.js → https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white
@@ -104,7 +93,7 @@
   • 🖼 Image: Linux → https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black
   • 🖼 Image: Framer Motion → https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white
   ──────
-  ### 🚀 Flagship Production Systems
+  ## 🚀 Flagship Production Systems
 
    System                                   | Architecture & Focus                                                                                       | Tech Stack                               |                 Status
   ------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------|-----------------------------------------
@@ -127,9 +116,7 @@
   [1]: 🖼 Image: Live → https://img.shields.io/badge/LIVE-22c55e?style=flat-square
   [2]: 🖼 Image: Prod → https://img.shields.io/badge/PROD-3b82f6?style=flat-square
   ──────
-  ### 📊 Telemetry & Developer Metrics
-
+  ## 📊 Telemetry & Developer Metrics
   ──────
-  ### 📫 Connect & Collaborate
-  I'm open for full-time engineering roles, contract architecture, and technical consulting worldwide.
-  ```
+  ## 📫 Connect & Collaborate
+  I'm open for full-time engineering roles, contract architecture, and technical consulting worldwide.```
