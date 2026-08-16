@@ -1,6 +1,6 @@
-<p align="center">
+ <p align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Franze%20William%20Calleja&fontAlign=50&fontAlignY=42&fontSize=36&color=0:0f0f0f,50:1a1a2e,100:16213e&fontColor=e2e8f0&desc=Full-
-  Stack%20Software%20Engineer%20%E2%80%A2%20Lucena%20%2F%20Candelaria%2C%20PH&descAlign=50&descAlignY=62&descSize=14" />
+  Stack%20Software%20Engineer%20%E2%80%A2%20Lucena%20%2F%20Candelaria%2C%20Quezon%2C%20PH&descAlign=50&descAlignY=62&descSize=14" />
     </p>
     
     <p align="center">
@@ -27,16 +27,16 @@
     const franze = {
       name:     "Franze William Calleja",
       location: "Lucena City / Candelaria, Quezon, Philippines",
-      focus:    "Full-stack • Enterprise Systems • Observability & DevOps • Agentic AI",
+      focus:    "Full-stack • Enterprise Systems Architecture • Observability • Agentic AI",
     
       currently: [
-        "Lead Fullstack Software Engineer → MSEUF-CI (Institutional Systems)",
-        "Lead Fullstack Software Engineer → R-A-Ones Corporation (Canada)",
-        "Founder & Lead Developer         → Ellipsense (Engineering Collective)",
+        "Lead Fullstack Engineer  →  MSEUF-CI (Institutional Systems)",
+        "Lead Software Engineer   →  R-A-Ones Corporation (Canada, Remote)",
+        "Founder & Lead Dev       →  Ellipsense (Freelance Collective)",
       ],
     
       building:  ["enterprise web platforms", "telemetry & observability", "scalable APIs", "mobile systems"],
-      exploring: ["agentic harnesses", "model orchestration (Claude/Gemini)", "distributed logging (Loki/Grafana)"],
+      exploring: ["agentic workflows", "model orchestration (Claude/Gemini)", "cloud infrastructure"],
     
       education: {
         degree:      "BS Computer Science",
@@ -60,7 +60,7 @@
   🖼 Image: Zustand → https://img.shields.io/badge/Zustand-463A3A?style=flat-square
   🖼 Image: TanStack Query → https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white
 
-  ### Backend & Databases
+  ### Backend
 
   🖼 Image: Node.js → https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white
   🖼 Image: Express → https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white
@@ -72,17 +72,17 @@
   🖼 Image: Rust → https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white
   🖼 Image: Axum → https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=orange
 
-  ### DevOps, AI & Infra
+  ### AI & Infra
 
   🖼 Image: Docker → https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
   🖼 Image: Grafana → https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white
   🖼 Image: Prometheus → https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white
-  🖼 Image: Loki → https://img.shields.io/badge/Grafana%20Loki-F46800?style=flat-square&logo=grafana&logoColor=white
+  🖼 Image: Loki → https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white
   🖼 Image: Claude Code → https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white
-  🖼 Image: Gemini API → https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white
   🖼 Image: Git → https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
   🖼 Image: GitHub Actions → https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white
   🖼 Image: Vercel → https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white
+  🖼 Image: AWS → https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white
   ──────
   ## 📊 Skill Levels
 
@@ -91,34 +91,31 @@
     DevOps & Observability      ██████████████████░░   88%
     Agentic AI & Toolchains     ██████████████████░░   88%
   ↳ Detailed breakdown
-  Frontend Architecture
+  Frontend
 
-    Component Systems & Next.js 16 (App Router)   ████████████████████░   95%
-    Responsive Layouts & Accessibility            ████████████████████░   92%
-    State Management (TanStack Query, Zustand)    ██████████████████░░   90%
-    Cross-Platform Mobile (React Native, Expo)     ████████████████░░░░   85%
+    Component-driven UI / Design Systems         ████████████████████░   95%
+    Responsive layouts & Accessibility           ████████████████████░   92%
+    State Management (TanStack, Zustand)         ██████████████████░░   90%
+    Mobile (React Native, Expo)                  ████████████████░░░░   85%
+    Testing & Performance Optimization           ████████████████░░░░   80%
 
-  Backend & Data Systems
+  Backend
 
-    REST API Design & Express.js Architecture     ████████████████████░   95%
-    Schema Design & ORMs (Prisma, MySQL, Postgres)██████████████████░░   90%
-    Authorization & Security (CASL RBAC, JWT)     ██████████████████░░   88%
-    Object Storage (MinIO S3, AWS S3)             ████████████████░░░░   85%
+    REST API Design & Express.js Architecture    ████████████████████░   95%
+    Modular / Clean Architectures                ████████████████████░   90%
+    Database Schema Design & ORMs (Prisma)       ██████████████████░░   90%
+    Auth, Authorization & RBAC (CASL, JWT)       ██████████████████░░   88%
+    Object Storage (MinIO S3, AWS S3)            ████████████████░░░░   85%
 
-  DevOps & Observability
+  AI & Infrastructure
 
-    Containerization & Docker Compose             ██████████████████░░   90%
-    Telemetry (Grafana, Prometheus, Loki, Alloy)  ██████████████████░░   88%
-    CI/CD Workflows & Automated Deployments       ████████████████░░░░   82%
-    Server Administration (Linux, VPS, Nginx)     ████████████████░░░░   80%
-
-  Agentic AI & Workflows
-
-    Agentic Development Harnesses (Claude Code, MCP) ██████████████████░░   90%
-    LLM API Integration (Gemini, OpenAI)          ██████████████████░░   88%
-    Prompt Engineering & Context Caching          ████████████████░░░░   85%
+    Agentic Development Harnesses (Claude Code)  ██████████████████░░   90%
+    Containerization (Docker & Compose)          ██████████████████░░   90%
+    Telemetry (Grafana, Prometheus, Loki)        ██████████████████░░   88%
+    CI/CD Workflows & Automated Deployments      ████████████████░░░░   82%
+    Cloud Infrastructure (VPS / AWS / Vercel)    ████████████████░░░░   80%
   ──────
-  ## 🏗️ Selected Production Projects
+  ## 🏗️ Selected Projects
 
    Project                                                                | Description                                                                               | Stack
   ------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------
@@ -126,26 +123,26 @@
    Unified Plant, Facilities & Property System[2]                         | Operations platform for campus assets, maintenance workflows & PDF/Excel exports          | Next.js 16 · Express · Prisma · MySQL · S3
    PHD Map Parking Marketplace[3]                                         | Toronto parking discovery & reservation marketplace with live geospatial routing & Stripe | React Native · Expo · PostGIS · Express · Stripe
    EUC Academic Portal[4]                                                 | Centralized university platform for admissions, document verification & enrollment        | Next.js 16 · Express · MariaDB · Prometheus · S3
-   HR Information Management (HRIMS)[5]                                   | Enterprise HR platform for employee records, workflows & analytics                        | Next.js · Express · Prisma · MySQL · Zustand
-   CITHM Smart NFC Attendance[6]                                          | NFC contactless check-in system with containerized microservices & live reporting         | Next.js 16 · Prisma 7 · MySQL 8 · Docker
-   UTOL Web Logistics Dashboard[7]                                        | Admin dispatch dashboard with live booking feeds, driver tracking & CASL RBAC             | Next.js · Zoho SSO · CASL · TanStack Table
+   HR Information Management System[5]                                    | Enterprise HR platform for employee records, workflows & admin data                       | Next.js · Express · Prisma · MySQL · Zustand
+   EUC CITHM NFC Attendance[6]                                            | Attendance system using contactless NFC flows & containerized microservices               | Next.js 16 · Prisma 7 · MySQL 8 · Docker
+   UTOL Web Dashboard[7]                                                  | Admin dashboard for logistics platform — operational control & fleet monitoring           | Next.js · Zoho SSO · CASL · TanStack Table
    NQ Trend Trading & LMS[8]                                              | Trading site & learning platform for content delivery & user management                   | Next.js · ASP.NET Core · PostgreSQL
-   Investo Mobile[9]                                                      | Mobile financial tracker for personal asset portfolio allocation & analytics              | React Native · Expo · Zustand
+   Investo[9]                                                             | Mobile investment tracker with streamlined portfolio analytics                            | React Native · Expo · Zustand
 
   [1]: MSEUF-Candelaria Portal & CMS https://mseufcandelaria.com
   [2]: Unified Plant, Facilities & Property System https://upfps.mseufcandelaria.com
   [3]: PHD Map Parking Marketplace https://phdmap.raones.cloud
   [4]: EUC Academic Portal https://mseufcandelaria.com
-  [5]: HR Information Management (HRIMS) https://hrims.mseufcandelaria.com
-  [6]: CITHM Smart NFC Attendance https://euccithm.com
-  [7]: UTOL Web Logistics Dashboard https://play.google.com/store/apps/details?id=ph.utol.utolapp
+  [5]: HR Information Management System https://hrims.mseufcandelaria.com
+  [6]: EUC CITHM NFC Attendance https://euccithm.com
+  [7]: UTOL Web Dashboard https://play.google.com/store/apps/details?id=ph.utol.utolapp
   [8]: NQ Trend Trading & LMS https://nqtrendtrading.com
-  [9]: Investo Mobile https://github.com/franze-calleja/investo
+  [9]: Investo https://github.com/franze-calleja/investo
   ──────
   ## 💼 Experience
 
     Lead Fullstack Software Engineer   →   MSEUF-CI                       [ Current ]
-    Lead Fullstack Software Engineer   →   R-A-Ones Corporation (Canada)  [ Current ]
+    Lead Software Engineer             →   R-A-Ones Corporation (Canada)  [ Current ]
     Founder & Lead Developer           →   Ellipsense (Freelance Group)   [ Current ]
     Full-Stack Web Developer           →   Techbears Solutions (U.S.A.)
     Web Developer Intern               →   Linoflap Technology
@@ -161,5 +158,5 @@
   ──────
   ## 📫 Let's Build Something
 
-  I'm open to work — full-time engineering roles, contract architecture, and freelance projects with teams worldwide.
+  I'm open to work — full-time roles, contract architecture, and freelance projects, working with teams worldwide.
   ```
