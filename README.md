@@ -1,53 +1,51 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Franze%20William%20Calleja&fontAlign=50&fontAlignY=38&fontSize=40&color=0:0e100f,40:181e1b,80:11221b,100:0e100f&fontColor=f3efdd&stroke=22c55e&strokeWidth=1" width="100%" alt="Header" />
-</p>
-    
-<p align="center">
-    <a href="https://franzecalleja.vercel.app">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=40&lines=Full-Stack+Software+Engineer+%26+Systems+Architect;Lead+Engineer+%40+MSEUF-CI+(Institutional+Platforms);Mobile+%26+Geospatial+Lead+%40+R-A-Ones+Canada;DevOps+%26+Observability+(Docker+%2B+Grafana+%2B+Loki);Class+Salutatorian+%E2%80%A2+Magna+Cum+Laude+(BSCS)" alt="Typing SVG" />
-    </a>
-</p>
-    
-<p align="center">
-    <a href="https://franzecalleja.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-franzecalleja.vercel.app-0E100F?style=for-the-badge&logo=vercel&logoColor=22c55e&labelColor=1a1d1b" alt="Portfolio" /></a>
-    &nbsp;
-    <a href="https://linkedin.com/in/franze-calleja"><img src="https://img.shields.io/badge/LINKEDIN-franze--calleja-0E100F?style=for-the-badge&logo=linkedin&logoColor=22c55e&labelColor=1a1d1b" alt="LinkedIn" /></a>
-    &nbsp;
-    <a href="mailto:franzewilliamcalleja@gmail.com"><img src="https://img.shields.io/badge/EMAIL-franzewilliamcalleja@gmail.com-0E100F?style=for-the-badge&logo=gmail&logoColor=22c55e&labelColor=1a1d1b" alt="Email" /></a>
-</p>
-    
-<p align="center">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-22c55e?style=flat-square&labelColor=0E100F&logo=statuspage&logoColor=22c55e" alt="System Online" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20FOR%20HIRE-22c55e?style=flat-square&labelColor=0E100F" alt="Open For Hire" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/LOCATION-PHILIPPINES%20(REMOTE%20WORLDWIDE)-f3efdd?style=flat-square&labelColor=0E100F&color=27272a" alt="Location" />
-</p>
-    
----
-    
-## 🖥️ `sys.telemetry // developer_kernel`
-    
-```ts
-// 🔴 🟡 🟢 user@franze-core:~$ neofetch --engineer
+# Hi, I'm Franze William Calleja 👋
 
-const franzeCalleja: SystemArchitect = {
-  codename:    "SYS.ARCH // PH",
-  discipline:  ["Enterprise Web", "Distributed Backends", "DevOps & Observability", "Agentic AI"],
-  credentials: {
-    degree:      "Bachelor of Science in Computer Science",
-    institution: "Manuel S. Enverga University Foundation – Candelaria Inc.",
-    honors:      "Magna Cum Laude · Class Salutatorian (GWA: 1.22)",
-  },
-  activeCommands: [
-    "Lead Full-Stack Engineer   → MSEUF-CI (Enterprise Portals & Telemetry)",
-    "Lead Software Engineer      → R-A-Ones Corporation (Canada, Geospatial)",
-    "Founder & Lead Architect   → Ellipsense (Engineering Collective)",
-  ],
-  stackVitals: {
-    runtime:      ["Next.js 16 (Turbopack)", "React 19", "React Native", "Node.js", "Express"],
-    persistence:  ["Prisma 7", "PostgreSQL (PostGIS)", "MySQL 8", "MinIO S3"],
-    observability: ["Docker Compose", "Grafana", "Prometheus", "Loki & Alloy"],
-    aiHarnesses:  ["Claude Code", "Codex", "MCP Tooling", "Gemini 2.5/3 API"],
-  },
-};
+a man with ambitions
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,rust,css,html,vue&perline=8&theme=dark" alt="Selected language and technology logos" />
+</p>
+
+## Stats
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=franze-calleja&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=franze-calleja&theme=zen" alt="GitHub Stats" /></picture>
+</p>
+
+## Projects
+
+### [IMS-payroll-frontend](https://github.com/Linoflap-Devs/IMS-payroll-frontend) `TypeScript`
+No description provided
+⭐ 0 | 🍴 3
+
+### [investo](https://github.com/franze-calleja/investo) `TypeScript`
+No description provided
+⭐ 0 | 🍴 0
+
+### [sna-gamecup-backend](https://github.com/franze-calleja/sna-gamecup-backend) `Rust`
+No description provided
+⭐ 0 | 🍴 0
+
+### [twa-elibrary](https://github.com/franze-calleja/twa-elibrary) `TypeScript`
+No description provided
+⭐ 0 | 🍴 0
+
+### [franzecalleja](https://github.com/franze-calleja/franzecalleja) `TypeScript`
+No description provided
+⭐ 1 | 🍴 0
+
+### [aem-system](https://github.com/franze-calleja/aem-system) `TypeScript`
+No description provided
+⭐ 1 | 🍴 1
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=franze-calleja&theme=zen&website=franzecalleja.vercel.app&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=franze-calleja&theme=zen&website=franzecalleja.vercel.app" alt="franze-calleja social links" /></picture>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franze-calleja) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](franzecalleja.vercel.app)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
