@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e3a8a,100:0ea5e9&height=230&section=header&text=Franze%20William%20Calleja&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Cloud%20%26%20Observability%20%E2%80%A2%20Agentic%20AI&descAlignY=53&descSize=15" width="100%" alt="Franze William Calleja" />
+<img src="assets/hero.svg" width="100%" alt="Franze William Calleja — Full-Stack Software Engineer" />
 
 <a href="https://franzecalleja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/franze-calleja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" /></a>
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/CANDELARIA,_QUEZON-🇵🇭-0ea5e9?style=flat-square&labelColor=020617" alt="Location" />
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=flat-square&labelColor=020617" alt="Open to work" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:6366f1,100:0ea5e9&height=3&section=header" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -72,7 +72,7 @@ const franze = {
 </tr>
 </table>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:6366f1,100:0ea5e9&height=3&section=header" width="100%" alt="" /></div>
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <h2 align="center">🛠️ &nbsp;Tech Arsenal</h2>
 
@@ -129,7 +129,7 @@ const franze = {
 <sub><b>TESTING</b></sub><br />
 <img src="https://skillicons.dev/icons?i=vitest,jest,postman&theme=dark" alt="Vitest, Jest, Postman" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:6366f1,100:0ea5e9&height=3&section=header" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -197,7 +197,7 @@ const franze = {
 <div align="center">
   <a href="https://franzecalleja.vercel.app/projects"><img src="https://img.shields.io/badge/Browse_all_10_projects_→-0ea5e9?style=for-the-badge&labelColor=020617" alt="All projects" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:6366f1,100:0ea5e9&height=3&section=header" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
 <h2 align="center">📊 &nbsp;GitHub Telemetry</h2>
@@ -205,40 +205,53 @@ const franze = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=franze-calleja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=franze-calleja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0284c7&icon_color=0284c7&text_color=475569&bg_color=ffffff" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=franze-calleja&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franze-calleja&layout=compact&langs_count=8&hide_border=true&title_color=0284c7&text_color=475569&bg_color=ffffff" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=franze-calleja&hide_border=true&background=0d1117&stroke=1e293b&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b&sideNums=e2e8f0&currStreakNum=e2e8f0" />
+  <img src="https://streak-stats.demolab.com/?user=franze-calleja&hide_border=true&background=ffffff&stroke=e2e8f0&ring=0284c7&fire=0284c7&currStreakLabel=0284c7&sideLabels=475569&dates=94a3b8&sideNums=0f172a&currStreakNum=0f172a" alt="Contribution streak" />
 </picture>
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=franze-calleja&hide_border=true&background=0d1117&stroke=1e293b&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franze-calleja&hide_border=true&background=ffffff&stroke=e2e8f0&ring=0284c7&fire=0284c7&currStreakLabel=0284c7&sideLabels=475569&dates=94a3b8" alt="Contribution streak" />
-</picture>
-
+<sub><b>CONTRIBUTION ACTIVITY</b></sub>
 <br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=franze-calleja&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" width="95%" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=franze-calleja&bg_color=0d1117&color=94a3b8&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=franze-calleja&bg_color=ffffff&color=475569&line=0284c7&point=0f172a&area=true&area_color=0284c7&hide_border=true" alt="Contribution graph" width="95%" />
-</picture>
+<img src="https://ghchart.rshah.org/0ea5e9/franze-calleja" width="94%" alt="Contribution chart" />
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franze-calleja/franze-calleja/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/franze-calleja/franze-calleja/output/snake.svg" alt="Contribution snake" width="95%" />
+  <img src="https://raw.githubusercontent.com/franze-calleja/franze-calleja/output/snake.svg" alt="Contribution snake" width="94%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:6366f1,100:0ea5e9&height=3&section=header" width="100%" alt="" />
+<!--
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │  STAT CARDS — currently disabled                                        │
+  │                                                                          │
+  │  github-readme-stats.vercel.app is returning 503 DEPLOYMENT_PAUSED and   │
+  │  github-profile-trophy / activity-graph return 402 DEPLOYMENT_DISABLED.  │
+  │  The public instances exceeded their Vercel free tier, so these render   │
+  │  as broken images. Public mirrors are rate-limited and serve an error    │
+  │  card ("Maximum retries exceeded") instead of real stats.                │
+  │                                                                          │
+  │  To restore them, self-host (the project's own recommended fix):         │
+  │    1. Fork github.com/anuraghazra/github-readme-stats                    │
+  │    2. Deploy the fork to Vercel (free)                                   │
+  │    3. Add env var PAT_1 = a GitHub token with public_repo scope          │
+  │    4. Replace YOUR-INSTANCE below with your deployment host, then        │
+  │       uncomment this block.                                              │
+  └─────────────────────────────────────────────────────────────────────────┘
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api?username=franze-calleja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" />
+  <img height="170" src="https://YOUR-INSTANCE.vercel.app/api?username=franze-calleja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0284c7&icon_color=0284c7&text_color=475569" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=franze-calleja&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
+  <img height="170" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=franze-calleja&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=475569" alt="Top languages" />
+</picture>
+
+-->
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -266,7 +279,7 @@ const franze = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:6366f1,100:0ea5e9&height=3&section=header" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 💡 &nbsp;Easter egg
 
@@ -279,6 +292,6 @@ My portfolio ships a <b>playable top-down pixel game</b> — character skins, NP
 
 <i>Let's build something reliable.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:1e3a8a,65:0f172a,100:020617&height=140&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="Let’s build something reliable." />
 
 </div>
