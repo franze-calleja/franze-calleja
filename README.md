@@ -2,6 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Franze William Calleja — Full-Stack Software Engineer" />
 
+
 <a href="https://franzecalleja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/franze-calleja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" /></a>
 <a href="mailto:franzewilliamcalleja@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Email" /></a>
