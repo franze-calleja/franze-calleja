@@ -1,6 +1,7 @@
 <div align="center">
 
 
+
 <img src="assets/hero.svg" width="100%" alt="Franze William Calleja — Full-Stack Software Engineer" />
 
 
