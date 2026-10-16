@@ -280,8 +280,6 @@ My portfolio ships a <b>playable top-down pixel game</b> — character skins, NP
 
 <br /><br />
 
-<i>Let's build something reliable.</i>
-
 <img src="assets/footer.svg" width="100%" alt="Let’s build something reliable." />
 
 </div>
