@@ -212,11 +212,6 @@ const franze = {
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franze-calleja/franze-calleja/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/franze-calleja/franze-calleja/output/snake.svg" alt="Contribution snake" width="94%" />
-</picture>
-
 <!--
   ┌─────────────────────────────────────────────────────────────────────────┐
   │  STAT CARDS — currently disabled                                        │
