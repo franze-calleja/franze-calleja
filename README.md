@@ -212,12 +212,6 @@ const franze = {
 
 <br /><br />
 
-<sub><b>CONTRIBUTION ACTIVITY</b></sub>
-<br /><br />
-<img src="https://ghchart.rshah.org/0ea5e9/franze-calleja" width="94%" alt="Contribution chart" />
-
-<br /><br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franze-calleja/franze-calleja/output/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/franze-calleja/franze-calleja/output/snake.svg" alt="Contribution snake" width="94%" />
